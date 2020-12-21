@@ -1,4 +1,4 @@
 ### uh im bad at typing
 
-# Discord
+## Discord
 ###  https://izmystic.dev/discord
