@@ -32,8 +32,8 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 ### Some Repositories 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=UselessScript&theme=react)](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=darker-discord&theme=react)](https://github.com/Itz-Hyperz/ProgramKillers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=UselessScript&theme=react)](https://github.com/izMystic/UselessScript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=darker-discord&theme=react)](https://github.com/izMystic/darker-discord)
 </div>
 
 <h2 align="center"> </h2>
@@ -43,5 +43,5 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 <p align="center">
 <a href="https://izmystic.dev"><img src="https://img.shields.io/badge/-izmystic.dev-ff00ff?style=plastic&logo=CodeSandbox&logoColor=white"/></a>
 <a href="https://izmystic.dev/discord"><img src="https://img.shields.io/badge/-Discord Server-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>
-<a href="https://www.twitter.com/itz_hyperz"><img src="https://img.shields.io/badge/-@iz__mystic-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.twitter.com/iz_mystic"><img src="https://img.shields.io/badge/-@iz__mystic-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
