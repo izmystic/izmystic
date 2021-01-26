@@ -3,12 +3,13 @@
 
 
 
-### About Me
+## About Me
 I'm Lead Technical Support for FireLion Hosting.<br>
 I'm currently learning C#.<br>
 I enjoy playing some games, watching shows/movies with my family, and talking with friends.<br>
 
-### Known Languages
+
+## Known Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![LUA](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
@@ -18,7 +19,7 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="left">
 <a href="https://github.com/izMystic">
@@ -27,18 +28,9 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 </a>
 </p>
 
-<h2 align="center"> </h2>
 
-### Some Repositories 
-<div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=UselessScript&theme=react)](https://github.com/izMystic/UselessScript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=izMystic&repo=darker-discord&theme=react)](https://github.com/izMystic/darker-discord)
-</div>
-
-<h2 align="center"> </h2>
-
-### 
+## 
 
 <p align="center">
 <a href="https://izmystic.dev"><img src="https://img.shields.io/badge/-izmystic.dev-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
