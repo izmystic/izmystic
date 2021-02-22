@@ -4,7 +4,6 @@
 
 
 ## About Me
-I'm Lead Technical Support for FireLion Hosting.<br>
 I'm currently learning C#.<br>
 I enjoy playing some games, watching shows/movies with my family, and talking with friends.<br>
 
@@ -28,6 +27,9 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 </a>
 </p>
 
+## FireLion Hosting Limited
+![FireLion](https://cdn.discordapp.com/attachments/724062593513160774/808027766103998524/firelion_banner.gif)<br/>
+Use code `first` for 15% off your first order at [FireLion Hosting Limited](https://www.firelion-hosting.com/billing/aff.php?aff=4)
 
 
 ## 
