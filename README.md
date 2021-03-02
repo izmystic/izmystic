@@ -20,7 +20,7 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izMystic&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/> <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izMystic&layout=compact&langs_count=8&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/> </a> </p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izMystic&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izMystic&layout=compact&langs_count=8&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/> </a> </p>
 
 ## FireLion Hosting Limited
 ![FireLion](https://cdn.discordapp.com/attachments/724062593513160774/808027766103998524/firelion_banner.gif)<br/>
