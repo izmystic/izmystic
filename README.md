@@ -22,8 +22,8 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 <p align="left">
 <a href="https://github.com/izMystic">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izMystic&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izMystic&layout=compact&langs_count=8&theme=omni&hide_border"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izMystic&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izMystic&layout=compact&langs_count=8&theme=omni&hide_border=true"/>
 </a>
 </p>
 
