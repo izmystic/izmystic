@@ -9,7 +9,7 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 ## My Discord
 
-<iframe src="https://discord.com/widget?id=784600007876935730&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/api/guilds/784600007876935730/widget.json
 
 ## Known Languages
 
