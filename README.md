@@ -9,7 +9,7 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 ## My Discord
 
-https://discord.com/api/guilds/784600007876935730/widget.json
+[![Mystic's Development Space](https://discordapp.com/api/guilds/784600007876935730/widget.png?style=banner4)](https://discord.com/invite/Jft3nTX765)
 
 ## Known Languages
 
