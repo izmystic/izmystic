@@ -4,7 +4,6 @@
 
 
 ## About Me
-I'm currently learning C#.<br>
 I enjoy playing some games, watching shows/movies with my family, and talking with friends.<br>
 
 ## My Discord
