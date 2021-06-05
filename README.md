@@ -36,7 +36,7 @@ Use code `first` for 15% off your first order at [FireLion Hosting Limited](http
 ## 
 
 <p align="center">
-<a href="https://izmystic.dev"><img src="https://img.shields.io/badge/-izmystic.dev-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
+<a href="https://izmystic.dev"><img src="https://img.shields.io/badge/-Website-ff00ff?style=flat&logo=CodeSandbox&logoColor=white"/></a>
 <a href="https://izmystic.dev/discord"><img src="https://img.shields.io/badge/-Discord Server-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://www.twitter.com/iz_mystic"><img src="https://img.shields.io/badge/-@iz__mystic-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.twitter.com/iz_mystic"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
