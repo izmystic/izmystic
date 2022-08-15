@@ -8,8 +8,8 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 ## Discords
 
-[![Mystic's Development Space](https://discordapp.com/api/guilds/784600007876935730/widget.png?style=banner4)](https://discord.gg/mbxTEAC74a)
-[![Omni RP](https://discordapp.com/api/guilds/700823865299042304/widget.png?style=banner4)](https://discord.gg/B39PNga2bX)
+[![Mystic's Development Space](https://discordapp.com/api/guilds/784600007876935730/widget.png?style=banner2)](https://discord.gg/mbxTEAC74a)
+[![Omni RP](https://discordapp.com/api/guilds/700823865299042304/widget.png?style=banner2)](https://discord.gg/B39PNga2bX)
 
 ## Known Languages
 
