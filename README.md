@@ -17,7 +17,6 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## GitHub Stats
 <p align="left">
