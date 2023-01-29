@@ -1,9 +1,9 @@
 Hey! I'm Mystic \
 I am a frontend developer that likes to make websites. \
 ![](https://komarev.com/ghpvc/?username=maahewt&color=ff00ff&style=flat)
-## My Deisgn Server
+## My Development Server
 
-[![Gaalxie Designs](https://discordapp.com/api/guilds/784600007876935730/widget.png?style=banner2)](https://discord.gg/mbxTEAC74a)
+[![iz Development](https://discordapp.com/api/guilds/784600007876935730/widget.png?style=banner2)](https://discord.gg/mbxTEAC74a)
 
 ## Github Stats
 <p align="left">
