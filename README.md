@@ -13,4 +13,3 @@ I am a frontend developer that likes to make websites. \
 
 [![](https://img.shields.io/badge/-Website-ff00ff?style=flat&logo=Webpack&logoColor=white)](https://izmystic.dev)
 [![](https://img.shields.io/badge/-Twitch-7289DA?style=flat&logo=Twitch&logoColor=white)](https://twitch.tv/maahewt)
-[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/iz_mystic)
